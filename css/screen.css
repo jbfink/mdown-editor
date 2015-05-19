@@ -1,9 +1,10 @@
 .box {
   margin: 0;
   padding: 16px;
-  box-shadow: 0 0 12px 0 #666666;
+  box-shadow: none;
   word-wrap: break-word;
   font-family: sans-serif;
+  border: 1;
 }
 
 #markdown,
